@@ -2,10 +2,18 @@ package com.company;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        while (true) {
-            System.out.println("hello world");
-        }
+         int baseSalary = 50_000;
+         int extraHours = 10;
+         int hourlyRate = 20;
+         int wage = calulateWage
+
+
     }
+
+    public static int calculateWage(
+            int baseSalary,
+            int extraHours,
+            int hourlyRate
+    )
 
 }
